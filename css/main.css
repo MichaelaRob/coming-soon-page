@@ -4,4 +4,30 @@ html {
 h1 {
   text-transform: uppercase;
   color: #E9B765;
+  letter-spacing: .5em;
+  font-weight: 400;
+}
+
+h2 {
+  color: #E9B765;
+  letter-spacing: .25em;
+}
+
+.border {
+  border-style: solid;
+  border-color: #5C9191;
+  border-width: 5px;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+  max-width: 28em;
+}
+
+p {
+  font-family: garamond-fb-text, serif;
+  color: #5C9191;
+}
+
+.mont {
+  font-family: montserrat, sans-serif;
 }
